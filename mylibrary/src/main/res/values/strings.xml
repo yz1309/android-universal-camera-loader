@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="sd_not_exist">SD卡不存在</string>
+    <string name="camera_not_exist">无可用相机</string>
+    <string name="pic_not_exist">图片不存在</string>
+    <string name="help">帮助</string>
+    <string name="help_content">当前权限被禁用，建议到设置界面开启权限!</string>
+
+    <string name="cancel">取消</string>
+    <string name="settings">设置</string>
+</resources>
